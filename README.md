@@ -1,4 +1,4 @@
-### Hello, I'm Fatma!👋
+# Hello, I'm Fatma!👋
 Welcome to my Github profile! I am a data analyst passionate about unlocking the power of data to drive informed decision-making and create impactful visual experiences. With a strong foundation in data analytics, I specialize in leveraging various tools and technologies to extract, analyze and visualize data.
 
 ## 🛠 Technical Skills
