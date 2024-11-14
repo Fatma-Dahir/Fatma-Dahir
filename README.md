@@ -1,5 +1,5 @@
 # Hello, I'm Fatma!👋
-Welcome to my Github profile! I’m a passionate Data Analyst dedicated to unlocking the power of data to drive informed decision-making and create impactful visualizations. With a strong foundation in data analytics, I specialize in leveraging various tools and technologies to extract, analyze and visualize data.
+Welcome to my Github profile! I’m a passionate Data Analyst dedicated to unlocking the power of data to drive informed decision-making and deliver impactful visualizations. With a strong foundation in data analytics, I specialize in leveraging various tools and technologies to extract, analyze and visualize data, helping organizations uncover insights and make data-driven decisions.
 
 ## 🛠 Technical Skills
 - **SQL** : Experienced in leveraging SQL to efficiently extract, manipulate and analyze data from relational databases, driving informed decision-making
@@ -18,6 +18,6 @@ Welcome to my Github profile! I’m a passionate Data Analyst dedicated to unloc
 ## 📫 Let's Connect!
 Feel free to reach out for collaboration, questions or just to connect!
 
-You can reach me via [email](mailto:fatmadahir23@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/fatma-mohamed-44a619256?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ).
+You can reach me via [email](mailto:fatmadahir23@gmail.com) , connect with me on [LinkedIn](https://www.linkedin.com/in/fatma-mohamed-44a619256?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ) or explore my work on my [portfolio](https://www.datascienceportfol.io/fatmadahir23).
 
 Thanks for visiting my profile! 😊
