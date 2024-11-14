@@ -18,6 +18,6 @@ Welcome to my Github profile! I’m a passionate Data Analyst dedicated to unloc
 ## 📫 Let's Connect!
 Feel free to reach out for collaboration, questions or just to connect!
 
-You can reach me via [email](mailto:fatmadahir23@gmail.com) , connect with me on [LinkedIn](https://www.linkedin.com/in/fatma-mohamed-44a619256?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ) or explore my work on my [portfolio](https://www.datascienceportfol.io/fatmadahir23).
+You can reach me via [email](mailto:fatmadahir23@gmail.com) , connect with me on [LinkedIn](https://www.linkedin.com/in/fatma-dahir) or explore my work on my [portfolio](https://www.datascienceportfol.io/fatmadahir23).
 
 Thanks for visiting my profile! 😊
