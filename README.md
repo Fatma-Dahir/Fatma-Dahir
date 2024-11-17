@@ -5,7 +5,7 @@ Welcome to my Github profile! I’m a passionate Data Analyst dedicated to unloc
 - **SQL** : Experienced in leveraging SQL to efficiently extract, manipulate and analyze data from relational databases, driving informed decision-making
 - **Power BI** : Experienced in utilizing Power BI to transform complex data sets into interactive dashboards and insightful reports
 - **Excel** : Advanced skills in data analysis, visualization and reporting
-- **Python** : Currently learning data manipulation and visualization with Pandas, NumPy and Matplotlib
+- **Python** : Currently learning data manipulation and visualization with Pandas, NumPy, Matplotlib and Seaborn
 
 ## 📚 Education
 **Bachelor's degree in Information Systems & Technology**  
@@ -15,6 +15,7 @@ Welcome to my Github profile! I’m a passionate Data Analyst dedicated to unloc
 - [HR Employee Attrition Analysis Project](https://github.com/Fatma-Dahir/HR-Employee-Attrition-Analysis-Project): utilized **SQL** for data cleaning and exploratory analysis then visualized key findings in **Excel** to uncover insights on employee attrition patterns, identify key factors contributing to high employee turnover and provided actionable recommendations to reduce attrition
 - [Shopping-Trends-Customer-Behavior-Analysis-Project](https://github.com/Fatma-Dahir/Shopping-Trends-Customer-Behavior-Analysis-Project): applied **SQL** techniques for data cleaning and exploratory analysis then created interactive visualizations and dashboards in **Microsoft Power BI** to uncover insights across demographics, product categories & seasonal trends aiming to optimize sales strategies & enhance customer engagement
 - [Global-Energy-Production-Consumption-Analysis-Project](https://github.com/Fatma-Dahir/Global-Energy-Production-Consumption-Analysis-Project): used **SQL** for data cleaning and analysis of global energy trends (1973–2022), focusing on fossil fuels, renewables, and nuclear power. Created interactive **Power BI** dashboards to visualize energy security, production-consumption ratios, and export opportunities, supporting a sustainable energy transition
+- [Python-Sales-Analysis-Project](https://github.com/Fatma-Dahir/Python-Sales-Analysis): utilized Python for data cleaning, analysis and visualization of sales data across regions and cities. Focused on key performance indicators like top-performing categories, customer segments, regions, shipping mode effectiveness and monthly sales trends. Employed **pandas** for data manipulation, **matplotlib** and **seaborn** for visualizations
 ## 📫 Let's Connect!
 Feel free to reach out for collaboration, questions or just to connect!
 
